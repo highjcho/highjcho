@@ -37,4 +37,3 @@
 - NestJS | TypeScript | Prisma | Docker | Socket IO
 - [![hyunjcho's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/clk2bw5y1000608mniwbi5kwj/project/3089114)](https://github.com/JaeSeoKim/badge42)
 - [트렌센던스 개발 관련 정리](https://future-plane-946.notion.site/Transcendence-d9ff7e05c764453383332b6e06f29736?pvs=4)
-|테스트1|테스트2|테스트3|
