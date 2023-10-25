@@ -1,14 +1,12 @@
-
-
 # Hyunjin Cho 👋
 
 ### ❤️‍🔥 NOW
+- [<img src="https://img.shields.io/badge/Born2Code-hyunjcho-004088?style=flat&logo=42&logoColor=white?style=flat">](https://companies.intra.42.fr/resumes/NgixM32P)
+- 42seoul 5기 ('21.10 ~ )
+- 42seoul 공통 과정 수료 및 멤버 ('23.06 ~ )
 
-42seoul 5기 ('21.10 ~ )
-  
-[![hyunjcho's 42 stats](https://badge42.vercel.app/api/v2/clk2bw5y1000608mniwbi5kwj/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
-### 🙋🏻‍♀️ ABOUT ME
+## 🙋🏻‍♀️ ABOUT ME
 
 [<img src="https://img.shields.io/badge/하이초로그-6DB33F?style=for-the-badge&logo=velog&logoColor=white">](https://velog.io/@highcho)
 
@@ -18,10 +16,6 @@
 
 ### 📝 STUDY
 <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-
-### 💫 Git Stat
-![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=highjcho&hide=stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highjcho&layout=compact)
-
 
 ## 🌿 PROJECT
 #### 1. [`어디있니`](https://github.com/42Where/where42) : 42서울 친구 자리 찾기 서비스 ('22.08 ~ '23.07)
@@ -45,3 +39,9 @@
 - NestJS | TypeScript | Prisma | Docker | Socket IO
 - [![hyunjcho's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/clk2bw5y1000608mniwbi5kwj/project/3089114)](https://github.com/JaeSeoKim/badge42)
 - [트렌센던스 개발 관련 정리](https://future-plane-946.notion.site/Transcendence-d9ff7e05c764453383332b6e06f29736?pvs=4)
+
+## 😎 And Some More
+### 💫 Git Stat
+![Hyunjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=highjcho&hide=stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highjcho&layout=compact)
+
+
